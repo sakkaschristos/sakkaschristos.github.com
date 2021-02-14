@@ -22,6 +22,10 @@ position:absolute;
 top:10%;
 left:60%;
 }
+
+.container-lg{
+max-width:1900px;
+}
 </style>
 </head>
 <body>
